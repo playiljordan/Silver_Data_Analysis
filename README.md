@@ -178,6 +178,11 @@ Price movements are fundamentally driven, not speculative
 
 Silver now behaves as a strategic industrial and macro-sensitive asset
 
+The Power BI Dashboard
+
+<img width="1281" height="723" alt="Screenshot 2026-01-13 203611" src="https://github.com/user-attachments/assets/70527b02-c176-4562-a398-028fea8ecddf" />
+
+
 📑 Presentation & Structural Thesis Validation
 
 In addition to the Power BI dashboard, this repository includes a review-ready presentation that walks through the full analytical narrative — from raw data to executive conclusions.
